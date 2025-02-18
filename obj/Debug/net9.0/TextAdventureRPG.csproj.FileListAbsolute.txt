@@ -1,0 +1,14 @@
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\bin\Debug\net9.0\TextAdventureRPG.exe
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\bin\Debug\net9.0\TextAdventureRPG.deps.json
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\bin\Debug\net9.0\TextAdventureRPG.runtimeconfig.json
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\bin\Debug\net9.0\TextAdventureRPG.dll
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\bin\Debug\net9.0\TextAdventureRPG.pdb
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.AssemblyInfoInputs.cache
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.AssemblyInfo.cs
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.csproj.CoreCompileInputs.cache
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.dll
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\refint\TextAdventureRPG.dll
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.pdb
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.genruntimeconfig.cache
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\ref\TextAdventureRPG.dll
