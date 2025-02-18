@@ -10,7 +10,7 @@ class Game
             while (player.Health > 0)
             {   
                 Console.WriteLine("Enemy ahead!/n What will you do?/n fight/items");
-                string decision = Console.ReadLine();
+                string decision = Console.ReadLine().ToLower();
                 switch (decision)
                 {
                     case "fight":
