@@ -18,7 +18,7 @@ class Game
                         break;
                     case "items":
                         Console.WriteLine("List of items");
-                        
+                        player.ShowInventory();
                         break;
                 }
                 Enemy enemy = Enemy.GenerateRandomEnemy();
