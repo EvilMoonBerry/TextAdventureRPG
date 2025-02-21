@@ -9,7 +9,7 @@ class Game
             
             while (player.Health > 0)
             {   
-                Console.WriteLine("Enemy ahead!/n What will you do?/n fight/items");
+                Console.WriteLine("Enemy ahead!/n What will you do?\n fight/items");
                 string decision = Console.ReadLine().ToLower();
                 switch (decision)
                 {
@@ -19,6 +19,11 @@ class Game
                     case "items":
                         Console.WriteLine("List of items");
                         player.ShowInventory();
+                        Console.WriteLine("Use an item? yes/no");
+                        string ItemUse = Console.ReadLine().ToLower();
+                        if (ItemUse == "yes"){
+                            player.UseItem();
+                            }
                         break;
                 }
                 Enemy enemy = Enemy.GenerateRandomEnemy();

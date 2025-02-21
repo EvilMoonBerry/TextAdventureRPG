@@ -12,3 +12,4 @@ D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\refint\TextAdventureRPG.
 D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.pdb
 D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.genruntimeconfig.cache
 D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\ref\TextAdventureRPG.dll
+D:\CODE\C_Sharp_stuff\TextAdventureRPG\obj\Debug\net9.0\TextAdventureRPG.sourcelink.json
