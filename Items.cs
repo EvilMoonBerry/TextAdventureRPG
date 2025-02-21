@@ -1,18 +1,18 @@
 class Items{
 
-        public string Name { get; set; }
-        public int Health { get; set; }
-        public int AttackPower { get; set; }
-        public int DefencePower{ get; set; }
+    public string Name { get; set; }
+    public int Health { get; set; }
+    public int AttackPower { get; set; }
+    public int DefencePower{ get; set; }
 
 
-        public Items(string name, int health, int attackPower, int defencePower)
-        {
-            Name = name;
-            Health = health;
-            AttackPower = attackPower;
-            DefencePower = defencePower;
-        }
+    public Items(string name, int health, int attackPower, int defencePower)
+    {
+        Name = name;
+        Health = health;
+        AttackPower = attackPower;
+        DefencePower = defencePower;
+    }
 
 
     public static Items GenetrateRandomItem()
@@ -28,5 +28,6 @@ class Items{
             Random rand = new Random();
             return items[rand.Next(items.Count)];
         }
+
 
 }

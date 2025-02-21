@@ -44,6 +44,7 @@ class Game
                         else
                         {
                             Console.WriteLine($"You defeated the {enemy.Name}!");
+                            player.AddToInventory();
                         }
                     }
                     else if (action == "flee")
