@@ -14,7 +14,7 @@
         public void Attack(Player player)
         {
             Console.WriteLine($"The {Name} attacks you for {AttackPower} damage!");
-            player.Health -= AttackPower;
+            player.Health -= AttackPower -player.AttackDefence;
         }
 
         public static Enemy GenerateRandomEnemy()

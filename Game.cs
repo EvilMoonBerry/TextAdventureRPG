@@ -9,7 +9,7 @@ class Game
             
             while (player.Health > 0)
             {   
-                Console.WriteLine("Enemy ahead!/n What will you do?\n fight/items");
+                Console.WriteLine("Enemy ahead!/n What will you do?\nfight/items");
                 string decision = Console.ReadLine().ToLower();
                 switch (decision)
                 {
@@ -63,7 +63,7 @@ class Game
                     Console.WriteLine("You have been defeated. Game over.");
                     break;
                 }
-
+                Console.WriteLine("Palyer stats: \n Name: "+player.Name +"\n Health: "+player.Health+"\nAttack: "+player.AttackPower+"\nDefence: "+player.AttackDefence);
                 Console.WriteLine("Do you want to continue exploring? (yes/no)");
                 string continueGame = Console.ReadLine().ToLower();
                 if (continueGame != "yes")
